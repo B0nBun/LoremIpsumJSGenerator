@@ -1,7 +1,7 @@
 {
   "type": "module",
-  "name": "lorem-ipsum-generator",
-  "version": "1.0.0",
+  "name": "lorem-ipsum-gen",
+  "version": "1.0.1",
   "description": "Two functions that can generate either a sentence or a paragraph of Latin dummy text (`Lorem ipsum dolor ...`)",
   "main": "index.js",
   "scripts": {

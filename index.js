@@ -78,6 +78,4 @@ function getLoremParagraph(wordsLen, totalRandom=false) {
     return paragraph
 }
 
-console.log(getLoremSentence(1))
-
 export {getLoremSentence, getLoremParagraph}

@@ -4,6 +4,16 @@
 
 Latin dummy text generator written on JS. You can either generate a sentence or a whole paragraph
 
+## Quickstart
+
+```
+> npm install lorem-ipsum-gen
+```
+
+```js
+import {getLoremSentence, getLoremParagraph} from 'lorem-ipsum-gen'
+```
+
 ## Usage
 
 There two functions that are exported from the file: `getLoremSentence` and `getLoremParagraph`.
