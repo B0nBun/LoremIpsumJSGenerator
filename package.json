@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "lorem-ipsum-generator",
+  "version": "1.0.0",
+  "description": "Two functions that can generate either a sentence or a paragraph of Latin dummy text (`Lorem ipsum dolor ...`)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bon-bon",
+  "license": "ISC"
+}
